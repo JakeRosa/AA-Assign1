@@ -1,0 +1,778 @@
+{
+    "4_50": {
+        "vertices": 4,
+        "edge_density": 0.5,
+        "execution_time": 3.37340002261044e-05,
+        "operation_count": 17,
+        "set_size": 2,
+        "combinations": 16
+    },
+    "4_12": {
+        "vertices": 4,
+        "edge_density": 0.12,
+        "execution_time": 8.660000275995117e-06,
+        "operation_count": 11,
+        "set_size": 3,
+        "combinations": 16
+    },
+    "4_75": {
+        "vertices": 4,
+        "edge_density": 0.75,
+        "execution_time": 1.1313999948470155e-05,
+        "operation_count": 24,
+        "set_size": 1,
+        "combinations": 16
+    },
+    "4_25": {
+        "vertices": 4,
+        "edge_density": 0.25,
+        "execution_time": 6.844999916211236e-06,
+        "operation_count": 11,
+        "set_size": 3,
+        "combinations": 16
+    },
+    "5_50": {
+        "vertices": 5,
+        "edge_density": 0.5,
+        "execution_time": 1.4246999853639863e-05,
+        "operation_count": 42,
+        "set_size": 2,
+        "combinations": 32
+    },
+    "5_12": {
+        "vertices": 5,
+        "edge_density": 0.12,
+        "execution_time": 6.6349998633086216e-06,
+        "operation_count": 16,
+        "set_size": 4,
+        "combinations": 32
+    },
+    "5_75": {
+        "vertices": 5,
+        "edge_density": 0.75,
+        "execution_time": 1.5224999970087083e-05,
+        "operation_count": 53,
+        "set_size": 2,
+        "combinations": 32
+    },
+    "5_25": {
+        "vertices": 5,
+        "edge_density": 0.25,
+        "execution_time": 9.428000339539722e-06,
+        "operation_count": 29,
+        "set_size": 3,
+        "combinations": 32
+    },
+    "6_12": {
+        "vertices": 6,
+        "edge_density": 0.12,
+        "execution_time": 9.70800010691164e-06,
+        "operation_count": 24,
+        "set_size": 5,
+        "combinations": 64
+    },
+    "6_75": {
+        "vertices": 6,
+        "edge_density": 0.75,
+        "execution_time": 2.3885999780759448e-05,
+        "operation_count": 96,
+        "set_size": 2,
+        "combinations": 64
+    },
+    "6_50": {
+        "vertices": 6,
+        "edge_density": 0.5,
+        "execution_time": 2.1301999822753714e-05,
+        "operation_count": 85,
+        "set_size": 3,
+        "combinations": 64
+    },
+    "6_25": {
+        "vertices": 6,
+        "edge_density": 0.25,
+        "execution_time": 1.3620000117953168e-05,
+        "operation_count": 53,
+        "set_size": 4,
+        "combinations": 64
+    },
+    "7_75": {
+        "vertices": 7,
+        "edge_density": 0.75,
+        "execution_time": 4.777200001626625e-05,
+        "operation_count": 214,
+        "set_size": 2,
+        "combinations": 128
+    },
+    "7_25": {
+        "vertices": 7,
+        "edge_density": 0.25,
+        "execution_time": 3.149800022583804e-05,
+        "operation_count": 145,
+        "set_size": 4,
+        "combinations": 128
+    },
+    "7_12": {
+        "vertices": 7,
+        "edge_density": 0.12,
+        "execution_time": 1.9066999811911955e-05,
+        "operation_count": 75,
+        "set_size": 5,
+        "combinations": 128
+    },
+    "7_50": {
+        "vertices": 7,
+        "edge_density": 0.5,
+        "execution_time": 4.49770000159333e-05,
+        "operation_count": 176,
+        "set_size": 3,
+        "combinations": 128
+    },
+    "8_12": {
+        "vertices": 8,
+        "edge_density": 0.12,
+        "execution_time": 5.566400022871676e-05,
+        "operation_count": 190,
+        "set_size": 5,
+        "combinations": 256
+    },
+    "8_50": {
+        "vertices": 8,
+        "edge_density": 0.5,
+        "execution_time": 9.721900005388306e-05,
+        "operation_count": 418,
+        "set_size": 3,
+        "combinations": 256
+    },
+    "8_75": {
+        "vertices": 8,
+        "edge_density": 0.75,
+        "execution_time": 9.491399987382465e-05,
+        "operation_count": 462,
+        "set_size": 2,
+        "combinations": 256
+    },
+    "8_25": {
+        "vertices": 8,
+        "edge_density": 0.25,
+        "execution_time": 4.218399999444955e-05,
+        "operation_count": 218,
+        "set_size": 5,
+        "combinations": 256
+    },
+    "9_75": {
+        "vertices": 9,
+        "edge_density": 0.75,
+        "execution_time": 0.00020847599989792798,
+        "operation_count": 970,
+        "set_size": 2,
+        "combinations": 512
+    },
+    "9_50": {
+        "vertices": 9,
+        "edge_density": 0.5,
+        "execution_time": 0.00015854000002946123,
+        "operation_count": 823,
+        "set_size": 4,
+        "combinations": 512
+    },
+    "9_12": {
+        "vertices": 9,
+        "edge_density": 0.12,
+        "execution_time": 5.48959997104248e-05,
+        "operation_count": 282,
+        "set_size": 6,
+        "combinations": 512
+    },
+    "9_25": {
+        "vertices": 9,
+        "edge_density": 0.25,
+        "execution_time": 0.00010986100005538901,
+        "operation_count": 600,
+        "set_size": 5,
+        "combinations": 512
+    },
+    "10_50": {
+        "vertices": 10,
+        "edge_density": 0.5,
+        "execution_time": 0.0003444579997449182,
+        "operation_count": 1807,
+        "set_size": 4,
+        "combinations": 1024
+    },
+    "10_75": {
+        "vertices": 10,
+        "edge_density": 0.75,
+        "execution_time": 0.0003789600000345672,
+        "operation_count": 1813,
+        "set_size": 3,
+        "combinations": 1024
+    },
+    "10_25": {
+        "vertices": 10,
+        "edge_density": 0.25,
+        "execution_time": 0.000289772000087396,
+        "operation_count": 1637,
+        "set_size": 5,
+        "combinations": 1024
+    },
+    "10_12": {
+        "vertices": 10,
+        "edge_density": 0.12,
+        "execution_time": 0.00015064800027175806,
+        "operation_count": 828,
+        "set_size": 6,
+        "combinations": 1024
+    },
+    "11_75": {
+        "vertices": 11,
+        "edge_density": 0.75,
+        "execution_time": 0.0007606429999214015,
+        "operation_count": 3822,
+        "set_size": 3,
+        "combinations": 2048
+    },
+    "11_12": {
+        "vertices": 11,
+        "edge_density": 0.12,
+        "execution_time": 0.00021560100003625848,
+        "operation_count": 1189,
+        "set_size": 7,
+        "combinations": 2048
+    },
+    "11_25": {
+        "vertices": 11,
+        "edge_density": 0.25,
+        "execution_time": 0.0004648640001505555,
+        "operation_count": 2633,
+        "set_size": 6,
+        "combinations": 2048
+    },
+    "11_50": {
+        "vertices": 11,
+        "edge_density": 0.5,
+        "execution_time": 0.0007457669998984784,
+        "operation_count": 3957,
+        "set_size": 4,
+        "combinations": 2048
+    },
+    "12_50": {
+        "vertices": 12,
+        "edge_density": 0.5,
+        "execution_time": 0.0016206709997277358,
+        "operation_count": 8412,
+        "set_size": 4,
+        "combinations": 4096
+    },
+    "12_25": {
+        "vertices": 12,
+        "edge_density": 0.25,
+        "execution_time": 0.0007278879998011689,
+        "operation_count": 4165,
+        "set_size": 7,
+        "combinations": 4096
+    },
+    "12_12": {
+        "vertices": 12,
+        "edge_density": 0.12,
+        "execution_time": 0.00031491499976255,
+        "operation_count": 1640,
+        "set_size": 8,
+        "combinations": 4096
+    },
+    "12_75": {
+        "vertices": 12,
+        "edge_density": 0.75,
+        "execution_time": 0.0015988800000741321,
+        "operation_count": 7908,
+        "set_size": 3,
+        "combinations": 4096
+    },
+    "13_25": {
+        "vertices": 13,
+        "edge_density": 0.25,
+        "execution_time": 0.0018371800001659722,
+        "operation_count": 10503,
+        "set_size": 7,
+        "combinations": 8192
+    },
+    "13_75": {
+        "vertices": 13,
+        "edge_density": 0.75,
+        "execution_time": 0.0032046050000644755,
+        "operation_count": 16189,
+        "set_size": 3,
+        "combinations": 8192
+    },
+    "13_50": {
+        "vertices": 13,
+        "edge_density": 0.5,
+        "execution_time": 0.0029689600000892824,
+        "operation_count": 15604,
+        "set_size": 5,
+        "combinations": 8192
+    },
+    "13_12": {
+        "vertices": 13,
+        "edge_density": 0.12,
+        "execution_time": 0.00041960799990192754,
+        "operation_count": 2231,
+        "set_size": 9,
+        "combinations": 8192
+    },
+    "14_75": {
+        "vertices": 14,
+        "edge_density": 0.75,
+        "execution_time": 0.006531851000090683,
+        "operation_count": 32878,
+        "set_size": 3,
+        "combinations": 16384
+    },
+    "14_50": {
+        "vertices": 14,
+        "edge_density": 0.5,
+        "execution_time": 0.006338391000099364,
+        "operation_count": 33484,
+        "set_size": 5,
+        "combinations": 16384
+    },
+    "14_12": {
+        "vertices": 14,
+        "edge_density": 0.12,
+        "execution_time": 0.0014371279999068065,
+        "operation_count": 8094,
+        "set_size": 9,
+        "combinations": 16384
+    },
+    "14_25": {
+        "vertices": 14,
+        "edge_density": 0.25,
+        "execution_time": 0.004622944999937317,
+        "operation_count": 26916,
+        "set_size": 7,
+        "combinations": 16384
+    },
+    "15_75": {
+        "vertices": 15,
+        "edge_density": 0.75,
+        "execution_time": 0.013182783000047493,
+        "operation_count": 66446,
+        "set_size": 3,
+        "combinations": 32768
+    },
+    "15_12": {
+        "vertices": 15,
+        "edge_density": 0.12,
+        "execution_time": 0.004453020999790169,
+        "operation_count": 26104,
+        "set_size": 9,
+        "combinations": 32768
+    },
+    "15_50": {
+        "vertices": 15,
+        "edge_density": 0.5,
+        "execution_time": 0.013292782999997144,
+        "operation_count": 70148,
+        "set_size": 5,
+        "combinations": 32768
+    },
+    "15_25": {
+        "vertices": 15,
+        "edge_density": 0.25,
+        "execution_time": 0.011386252000193053,
+        "operation_count": 67551,
+        "set_size": 7,
+        "combinations": 32768
+    },
+    "16_50": {
+        "vertices": 16,
+        "edge_density": 0.5,
+        "execution_time": 0.026974164999955974,
+        "operation_count": 141538,
+        "set_size": 5,
+        "combinations": 65536
+    },
+    "16_12": {
+        "vertices": 16,
+        "edge_density": 0.12,
+        "execution_time": 0.008600206000210164,
+        "operation_count": 51082,
+        "set_size": 10,
+        "combinations": 65536
+    },
+    "16_25": {
+        "vertices": 16,
+        "edge_density": 0.25,
+        "execution_time": 0.019828476999919076,
+        "operation_count": 119225,
+        "set_size": 8,
+        "combinations": 65536
+    },
+    "16_75": {
+        "vertices": 16,
+        "edge_density": 0.75,
+        "execution_time": 0.026685090999762906,
+        "operation_count": 133743,
+        "set_size": 3,
+        "combinations": 65536
+    },
+    "17_12": {
+        "vertices": 17,
+        "edge_density": 0.12,
+        "execution_time": 0.017213053999967087,
+        "operation_count": 96493,
+        "set_size": 10,
+        "combinations": 131072
+    },
+    "17_75": {
+        "vertices": 17,
+        "edge_density": 0.75,
+        "execution_time": 0.053201236000404606,
+        "operation_count": 268488,
+        "set_size": 3,
+        "combinations": 131072
+    },
+    "17_50": {
+        "vertices": 17,
+        "edge_density": 0.5,
+        "execution_time": 0.055042605999915395,
+        "operation_count": 296678,
+        "set_size": 5,
+        "combinations": 131072
+    },
+    "17_25": {
+        "vertices": 17,
+        "edge_density": 0.25,
+        "execution_time": 0.04622079199998552,
+        "operation_count": 277724,
+        "set_size": 8,
+        "combinations": 131072
+    },
+    "18_12": {
+        "vertices": 18,
+        "edge_density": 0.12,
+        "execution_time": 0.04665541599979406,
+        "operation_count": 271357,
+        "set_size": 10,
+        "combinations": 262144
+    },
+    "18_50": {
+        "vertices": 18,
+        "edge_density": 0.5,
+        "execution_time": 0.11369720199991207,
+        "operation_count": 610951,
+        "set_size": 5,
+        "combinations": 262144
+    },
+    "18_75": {
+        "vertices": 18,
+        "edge_density": 0.75,
+        "execution_time": 0.1060337779999827,
+        "operation_count": 538288,
+        "set_size": 3,
+        "combinations": 262144
+    },
+    "18_25": {
+        "vertices": 18,
+        "edge_density": 0.25,
+        "execution_time": 0.10642314400001851,
+        "operation_count": 644656,
+        "set_size": 8,
+        "combinations": 262144
+    },
+    "19_25": {
+        "vertices": 19,
+        "edge_density": 0.25,
+        "execution_time": 0.23829427600003328,
+        "operation_count": 1456856,
+        "set_size": 8,
+        "combinations": 524288
+    },
+    "19_12": {
+        "vertices": 19,
+        "edge_density": 0.12,
+        "execution_time": 0.09813009999970745,
+        "operation_count": 596369,
+        "set_size": 11,
+        "combinations": 524288
+    },
+    "19_75": {
+        "vertices": 19,
+        "edge_density": 0.75,
+        "execution_time": 0.21238379599981272,
+        "operation_count": 1078201,
+        "set_size": 3,
+        "combinations": 524288
+    },
+    "19_50": {
+        "vertices": 19,
+        "edge_density": 0.5,
+        "execution_time": 0.2303023879999273,
+        "operation_count": 1242466,
+        "set_size": 5,
+        "combinations": 524288
+    },
+    "20_50": {
+        "vertices": 20,
+        "edge_density": 0.5,
+        "execution_time": 0.461223567000161,
+        "operation_count": 2448208,
+        "set_size": 5,
+        "combinations": 1048576
+    },
+    "20_75": {
+        "vertices": 20,
+        "edge_density": 0.75,
+        "execution_time": 0.4262737889998789,
+        "operation_count": 2158524,
+        "set_size": 3,
+        "combinations": 1048576
+    },
+    "20_12": {
+        "vertices": 20,
+        "edge_density": 0.12,
+        "execution_time": 0.2575818260002052,
+        "operation_count": 1540810,
+        "set_size": 11,
+        "combinations": 1048576
+    },
+    "20_25": {
+        "vertices": 20,
+        "edge_density": 0.25,
+        "execution_time": 0.5220993210000415,
+        "operation_count": 3118499,
+        "set_size": 8,
+        "combinations": 1048576
+    },
+    "21_50": {
+        "vertices": 21,
+        "edge_density": 0.5,
+        "execution_time": 0.9215590100002373,
+        "operation_count": 4864979,
+        "set_size": 5,
+        "combinations": 2097152
+    },
+    "21_75": {
+        "vertices": 21,
+        "edge_density": 0.75,
+        "execution_time": 0.8524620619996313,
+        "operation_count": 4308293,
+        "set_size": 4,
+        "combinations": 2097152
+    },
+    "21_12": {
+        "vertices": 21,
+        "edge_density": 0.12,
+        "execution_time": 0.5096820580001804,
+        "operation_count": 3073813,
+        "set_size": 11,
+        "combinations": 2097152
+    },
+    "21_25": {
+        "vertices": 21,
+        "edge_density": 0.25,
+        "execution_time": 1.0418538160001845,
+        "operation_count": 6286407,
+        "set_size": 8,
+        "combinations": 2097152
+    },
+    "22_75": {
+        "vertices": 22,
+        "edge_density": 0.75,
+        "execution_time": 1.7073750750000727,
+        "operation_count": 8629307,
+        "set_size": 4,
+        "combinations": 4194304
+    },
+    "22_12": {
+        "vertices": 22,
+        "edge_density": 0.12,
+        "execution_time": 1.2918761529999756,
+        "operation_count": 7980867,
+        "set_size": 11,
+        "combinations": 4194304
+    },
+    "22_50": {
+        "vertices": 22,
+        "edge_density": 0.5,
+        "execution_time": 1.8469751269999506,
+        "operation_count": 9787468,
+        "set_size": 5,
+        "combinations": 4194304
+    },
+    "22_25": {
+        "vertices": 22,
+        "edge_density": 0.25,
+        "execution_time": 2.179179025999929,
+        "operation_count": 13241345,
+        "set_size": 8,
+        "combinations": 4194304
+    },
+    "23_75": {
+        "vertices": 23,
+        "edge_density": 0.75,
+        "execution_time": 3.4226652090001153,
+        "operation_count": 17276672,
+        "set_size": 4,
+        "combinations": 8388608
+    },
+    "23_25": {
+        "vertices": 23,
+        "edge_density": 0.25,
+        "execution_time": 4.56122502900007,
+        "operation_count": 27670327,
+        "set_size": 8,
+        "combinations": 8388608
+    },
+    "23_12": {
+        "vertices": 23,
+        "edge_density": 0.12,
+        "execution_time": 3.011909681999896,
+        "operation_count": 18463434,
+        "set_size": 11,
+        "combinations": 8388608
+    },
+    "23_50": {
+        "vertices": 23,
+        "edge_density": 0.5,
+        "execution_time": 3.721750709999924,
+        "operation_count": 19554052,
+        "set_size": 5,
+        "combinations": 8388608
+    },
+    "24_75": {
+        "vertices": 24,
+        "edge_density": 0.75,
+        "execution_time": 6.900068801000089,
+        "operation_count": 34570436,
+        "set_size": 4,
+        "combinations": 16777216
+    },
+    "24_12": {
+        "vertices": 24,
+        "edge_density": 0.12,
+        "execution_time": 5.097413207000045,
+        "operation_count": 31119892,
+        "set_size": 12,
+        "combinations": 16777216
+    },
+    "24_25": {
+        "vertices": 24,
+        "edge_density": 0.25,
+        "execution_time": 9.47909610500028,
+        "operation_count": 57072740,
+        "set_size": 8,
+        "combinations": 16777216
+    },
+    "24_50": {
+        "vertices": 24,
+        "edge_density": 0.5,
+        "execution_time": 7.401226860999941,
+        "operation_count": 39122448,
+        "set_size": 6,
+        "combinations": 16777216
+    },
+    "25_25": {
+        "vertices": 25,
+        "edge_density": 0.25,
+        "execution_time": 19.437622765000015,
+        "operation_count": 117174660,
+        "set_size": 8,
+        "combinations": 33554432
+    },
+    "25_12": {
+        "vertices": 25,
+        "edge_density": 0.12,
+        "execution_time": 8.522803505999946,
+        "operation_count": 51107653,
+        "set_size": 13,
+        "combinations": 33554432
+    },
+    "25_75": {
+        "vertices": 25,
+        "edge_density": 0.75,
+        "execution_time": 13.858609677000004,
+        "operation_count": 69158163,
+        "set_size": 4,
+        "combinations": 33554432
+    },
+    "25_50": {
+        "vertices": 25,
+        "edge_density": 0.5,
+        "execution_time": 14.954412625999794,
+        "operation_count": 78220109,
+        "set_size": 6,
+        "combinations": 33554432
+    },
+    "26_12": {
+        "vertices": 26,
+        "edge_density": 0.12,
+        "execution_time": 14.031156827999894,
+        "operation_count": 83134511,
+        "set_size": 14,
+        "combinations": 67108864
+    },
+    "26_25": {
+        "vertices": 26,
+        "edge_density": 0.25,
+        "execution_time": 38.66239044899976,
+        "operation_count": 232693798,
+        "set_size": 9,
+        "combinations": 67108864
+    },
+    "26_50": {
+        "vertices": 26,
+        "edge_density": 0.5,
+        "execution_time": 29.82712824700002,
+        "operation_count": 156220293,
+        "set_size": 6,
+        "combinations": 67108864
+    },
+    "26_75": {
+        "vertices": 26,
+        "edge_density": 0.75,
+        "execution_time": 27.698882287000288,
+        "operation_count": 138341441,
+        "set_size": 4,
+        "combinations": 67108864
+    },
+    "27_75": {
+        "vertices": 27,
+        "edge_density": 0.75,
+        "execution_time": 55.4976993209998,
+        "operation_count": 276721496,
+        "set_size": 4,
+        "combinations": 134217728
+    },
+    "27_50": {
+        "vertices": 27,
+        "edge_density": 0.5,
+        "execution_time": 59.885687080000025,
+        "operation_count": 312496807,
+        "set_size": 6,
+        "combinations": 134217728
+    },
+    "27_12": {
+        "vertices": 27,
+        "edge_density": 0.12,
+        "execution_time": 34.715596903000005,
+        "operation_count": 209497613,
+        "set_size": 14,
+        "combinations": 134217728
+    },
+    "27_25": {
+        "vertices": 27,
+        "edge_density": 0.25,
+        "execution_time": 78.31829195499995,
+        "operation_count": 473484894,
+        "set_size": 9,
+        "combinations": 134217728
+    },
+    "28_75": {
+        "vertices": 28,
+        "edge_density": 0.75,
+        "execution_time": 111.59657500599997,
+        "operation_count": 553491845,
+        "set_size": 4,
+        "combinations": 268435456
+    }
+}
